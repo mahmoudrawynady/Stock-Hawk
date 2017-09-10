@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">مرحبا ايها العالم</string>
+    <string name="toast_no_connectivity">سيتم التحديث عند اتاحة الشبكة</string>
+    <string name="toast_stock_added_no_connectivity">تم اضافة الرمز وسيتم التحديث عند اتاحة الشبكة </string>
+    <string name="dialog_cancel">الغاء</string>
+    <string name="dialog_add">اضافة</string>
+    <string name="dialog_hint">رمز مثل GOOG</string>
+    <string name="dialog_title">اضف سهم </string>
+    <string name="error_no_network">لا يوجد شبكة ! سيتم اضافة السهم عند اتاحة الشبكة </string>
+    <string name="error_no_stocks">لم يتم اضافة اسهم اضغط على الزر للاضافة</string>
+    <string name="details">هذا الرسم البيانى يمثل سعر السهم خلال فترة زمنية معينة </string>
+    <string name="change">هذا الزر يمثل نسبة تغير سعر السهم</string>
+    <string name="pricedesc">هذا الزر يمثل سعر السهم</string>
+    <string name="sympoldesc">هذا الزر يمثل اسم السهم</string>
+    <string name="foatdesc">هذا الزر لتقوم باضافة سهم</string>
+</resources>
